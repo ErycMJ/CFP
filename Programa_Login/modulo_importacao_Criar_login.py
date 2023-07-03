@@ -1,0 +1,10 @@
+#Importações de Criar_login
+import Primeira_parte.Criar_login.modulo_criar_usuario
+import Primeira_parte.Criar_login.modulo_criar_senha
+import Primeira_parte.Criar_login.modulo_dicionario_login
+import Primeira_parte.Criar_login.modulo_usuario_cadastrado
+import Primeira_parte.Criar_login.modulo_senha_cadastrada
+import Primeira_parte.Criar_login.modulo_usuario_valido
+import Primeira_parte.Criar_login.modulo_criar_senha
+
+
